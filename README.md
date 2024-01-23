@@ -2,6 +2,9 @@
 Slide decks, blogs, and videos of my conference presentations.
 ---
 ## Conference Presentations
+* Security Analyst Summit(SAS) 2023: A Cascade of Compromise: Unveiling Lazarus' Campaign Exploiting Software Company Products and its Intricate Connections with Other Campaigns
+    + [Slides](SAS2023_Lazarus.pdf)
+    + [Blog](https://securelist.com/unveiling-lazarus-new-campaign/110888/)
 * BotConf 2023: "Perfect Smoke and Mirrors of Enemy: Following Lazarus group by tracking DeathNote"
     + [Slides](Botconf2023_Lazarus.pdf)
     + [Blog](https://securelist.com/the-lazarus-group-deathnote-campaign/109490/)
